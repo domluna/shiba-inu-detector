@@ -1,0 +1,7 @@
+data
+wandb
+runs
+__pycache__
+.ipynb_checkpoints
+vit-base-patch16-224-in21k*
+flagged
